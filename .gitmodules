@@ -1,0 +1,15 @@
+[submodule "cert-manager"]
+	path = cert-manager
+	url = git@github.com:kube-crds-rs/cert-manager.git
+[submodule "traefik"]
+	path = traefik
+	url = git@github.com:kube-crds-rs/traefik.git
+[submodule "longhorn"]
+	path = longhorn
+	url = git@github.com:kube-crds-rs/longhorn.git
+[submodule "helm-controller"]
+	path = helm-controller
+	url = git@github.com:kube-crds-rs/helm-controller.git
+[submodule "system-upgrade-controller"]
+	path = system-upgrade-controller
+	url = git@github.com:kube-crds-rs/system-upgrade-controller.git
