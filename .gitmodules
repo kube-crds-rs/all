@@ -13,3 +13,6 @@
 [submodule "system-upgrade-controller"]
 	path = system-upgrade-controller
 	url = git@github.com:kube-crds-rs/system-upgrade-controller.git
+[submodule "cilium"]
+	path = cilium
+	url = git@github.com:kube-crds-rs/cilium
