@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-export K8S_OPENAPI_ENABLED_VERSION=1.29
+export K8S_OPENAPI_ENABLED_VERSION=1.30
 cd cert-manager
 cargo update
 cargo publish
