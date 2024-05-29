@@ -9,3 +9,5 @@ cd ../system-upgrade-controller
 ./codegen.py
 cd ../traefik
 ./codegen.py
+cd ../cilium
+./codegen.py

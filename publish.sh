@@ -15,3 +15,6 @@ cargo publish
 cd ../traefik
 cargo update
 cargo publish
+cd ../cilium
+cargo update
+cargo publish
